@@ -4,7 +4,7 @@
 ## ENTRA21 - JAVA WEB MATUTINO 2021
 <i> Um projeto que visa melhorar a administração de Asilos e facilitar o contato entre familiares e seus entes queridos. </i></br>
 <sub> Ideia: David Pavesi </sub></br></br></br>
-##
+
 # EQUIPE:
 * EDUARDA STEFFEN 
 * LUCAS RAFAEL BOOZ

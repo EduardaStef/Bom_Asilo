@@ -19,6 +19,6 @@
 - [x] Modelo
 - [x] Backend
 - [x] Testes
-- [ ] Frontend
+- [x] Frontend
 - [ ] Testes Frontend
 - [ ] Apresentação

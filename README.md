@@ -6,7 +6,7 @@
 <sub> Imagens: Eduarda Steffen </sub></br>
 <sub> Ideia: David Pavesi </sub></br></br>
 
-## Equipe:
+## Equipe de Desenvolvimento:
 * Eduarda Steffen 
 * Lucas Rafael Booz
 * Tainara da Silva Borba

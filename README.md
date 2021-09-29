@@ -1,5 +1,5 @@
 # <i><b> Projeto Bom Asilo </b></i>
-<img align="left" height="200" src="https://media.discordapp.net/attachments/767080390241812540/892737725940269136/LogoCor.gif?width=406&height=406">
+<img align="left" height="190" src="https://media.discordapp.net/attachments/767080390241812540/892737725940269136/LogoCor.gif?width=406&height=406">
 
 ## ENTRA21 - JAVA WEB MATUTINO 2021
 <i> Um projeto que visa melhorar a administração de Asilos e facilitar o contato entre familiares e seus entes queridos. </i></br>

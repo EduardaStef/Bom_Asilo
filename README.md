@@ -3,7 +3,8 @@
 
 ## Sobre o Projeto
 <i> Um projeto que visa melhorar a administração de Asilos e facilitar o contato entre familiares e seus entes queridos. </i></br>
-<sub> Ideia: David Pavesi </sub></br></br></br>
+<sub> Imagens: Eduarda Steffen </sub></br>
+<sub> Ideia: David Pavesi </sub></br></br>
 
 ## Equipe:
 * Eduarda Steffen 

@@ -21,5 +21,5 @@
 - [x] Backend
 - [x] Testes
 - [x] Frontend
-- [ ] Testes Frontend
-- [ ] Apresentação
+- [x] Testes Frontend
+- [x] Apresentação
